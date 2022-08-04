@@ -1,0 +1,16 @@
+h1 {
+    color: red;
+    text-align: center;
+    font-size: 40px;
+}
+
+nav {
+    background-color: bisque;
+    color: black;
+    text-align: center;
+}
+
+.myButton {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
